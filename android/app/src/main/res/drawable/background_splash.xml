@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:drawable="@drawable/splash"
+    />
+    <item
+        android:width="130dp"
+        android:height="118dp"
+        android:drawable="@drawable/logo"
+        android:gravity="center" />
+</layer-list>

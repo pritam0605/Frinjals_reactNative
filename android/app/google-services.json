@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73358632390",
+    "project_id": "frinjals-2021",
+    "storage_bucket": "frinjals-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73358632390:android:116b65ad56b050e018bec7",
+        "android_client_info": {
+          "package_name": "com.frinjals.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73358632390-hv5j4cqii2g1r2tfvrmg7ibg4gceqov2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlUyAEYvpb_flVqpNs4VEIUARPQzkFukE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73358632390-hv5j4cqii2g1r2tfvrmg7ibg4gceqov2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

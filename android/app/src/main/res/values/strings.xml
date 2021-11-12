@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Frinjals</string>
+    <string name="facebook_app_id">377918027152242</string>
+<string name="fb_login_protocol_scheme">fb377918027152242</string>
+</resources>

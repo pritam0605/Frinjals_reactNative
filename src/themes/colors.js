@@ -1,0 +1,33 @@
+export default class colors {
+  static color000 = '#000000';
+  static colorAF = '#AFAFAF';
+  static color84 = '#848484';
+  static color70 = '#707070';
+  static color23 = '#232323';
+  static colorFEE = '#FEEAEE';
+  static colorFDD = '#FDD4DC';
+  static colorFCA = '#FCA9BA';
+  static colorFC0 = '#fc0000';
+  static iconColor = '#fa4f51';
+  static buttonBg = '#ff6d6f';
+  static colorCA0 = '#CA082F';
+  static colorF4F = '#F4F4F4';
+  static colorFFF = '#FFFFFF';
+  static colorB9F729 = '#B9F729';
+  static color6600ff = '#6600ff';
+  static colorBDB = '#BDBDBD';
+  static color7B7 = '#7B7B7B';
+  static color4F4 = '#4f4f4f';
+  static colorFA7F97 = '#FA7F97';
+  static colorF4F = '#F4F4F4';
+  static color93D006 = '#93D006';
+  static color04 = 'rgba(254, 234, 238, 0.4)';
+  static colorECE = '#ececec';
+  static color242323 = '#242323';
+  static colorff6d6f = '#ff6d6f';
+  static color61 = '#616161';
+  static color1e = '#1e1e1e';
+  static color323030 = '#323030';
+  static color868484 = '#868484';
+  static color0f0f0f = '#0f0f0f';
+}
